@@ -1,0 +1,17 @@
+{
+		"version": "5.0.0.0",
+		"author": {"name":"C-Systems","email":"hussain.brohi@constellationdealer.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/dateRangeByMonthFinal1948926BFDBA4E8391085DBE8703E128.pbiviz.json"
+			}
+		],
+		"visual": {"name":"dateRangeByMonthFinal","displayName":"Date with Year and Month Dropdowns","guid":"dateRangeByMonthFinal1948926BFDBA4E8391085DBE8703E128","visualClassName":"Visual","version":"5.0.0.0","description":"Created a date slicer in which we can filter data using year and month drop down for year-month only","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

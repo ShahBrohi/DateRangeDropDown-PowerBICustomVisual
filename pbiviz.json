@@ -1,0 +1,24 @@
+{
+  "visual": {
+    "name": "dateRangeByMonthFinal",
+    "displayName": "Date with Year and Month Dropdowns",
+    "guid": "dateRangeByMonthFinal1948926BFDBA4E8391085DBE8703E128",
+    "visualClassName": "Visual",
+    "version": "5.0.0.0",
+    "description": "Created a date slicer in which we can filter data using year and month drop down for year-month only",
+    "supportUrl": "https://community.powerbi.com",
+    "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
+  },
+  "apiVersion": "5.11.0",
+  "author": {
+    "name": "",
+    "email": "shahbrohi6@gmail.com"
+  },
+  "assets": { "icon": "assets/date.jpg" },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "version": "1.0.0.0"
+}

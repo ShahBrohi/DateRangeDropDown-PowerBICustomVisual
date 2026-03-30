@@ -1,0 +1,4 @@
+import powerbiVisualsApi from "powerbi-visuals-api";
+import IVisualPlugin = powerbiVisualsApi.visuals.plugins.IVisualPlugin;
+declare var dateRangeByMonthFinal1948926BFDBA4E8391085DBE8703E128_DEBUG: IVisualPlugin;
+export default dateRangeByMonthFinal1948926BFDBA4E8391085DBE8703E128_DEBUG;
