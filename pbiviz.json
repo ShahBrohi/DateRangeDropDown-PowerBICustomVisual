@@ -9,7 +9,7 @@
     "supportUrl": "https://community.powerbi.com",
     "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
   },
-  "apiVersion": "5.11.0",
+  "apiVersion": "5.8.0",
   "author": {
     "name": "",
     "email": "shahbrohi6@gmail.com"
